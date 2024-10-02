@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Yichi Zhang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: EACH
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yichi
+last_name: Zhang
 
 # Status emoji
 status:
